@@ -1,0 +1,52 @@
+.consumptionDetail {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card-1 {
+  background-color: #ff6384;
+  width: 15rem;
+  color: white;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+
+.insideCard {
+  padding: 10px;
+}
+
+.card-2 {
+  background-color: #ff6384;
+  width: 15rem;
+  color: white;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+
+.insideCard-1 {
+  padding: 10px;
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+h3 {
+  text-align: center;
+}
+
+.page {
+  padding: 20px;
+}
+
+.graph {
+  margin-left: 2rem;
+  width: 60rem;
+  height: 40rem;
+}
